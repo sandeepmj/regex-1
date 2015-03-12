@@ -2,5 +2,5 @@
 
 ##The problem: traditional search and replace is too literal
 
-*[dog.txt] (* https://github.com/sandeepmj/regex/blob/master/dog.txt<a>
+* [dog.txt] (https://github.com/sandeepmj/regex/blob/master/dog.txt<a>
 
