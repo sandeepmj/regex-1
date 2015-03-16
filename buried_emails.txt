@@ -7,7 +7,7 @@ sjnews@gmail.com
 deep@bbc.co.uk
 Patrick-Calm@bbc.co.uk
 Sam.Stand@test.info
-peter_paul@john.gov
+"peter_paul@john.gov"
 sandeep@journalism.cuny.edu
 <smj5@columbia.edu>
 123@123.tk
