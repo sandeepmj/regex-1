@@ -9,7 +9,7 @@ Patrick-Calm@bbc.co.uk
 Sam.Stand@test.info
 peter_paul@john.gov
 sandeep@journalism.cuny.edu
-smj5@columbia.edu
+<smj5@columbia.edu>
 123@123.tk
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet. Duis sagittis ipsum. Praesent mauris. Fusce nec tellus sed augue semper porta. Mauris sandeep.junnarkar@journalism.cuny.edu massa. Vestibulum lacinia arcu eget nulla. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Curabitur sodales ligula in libero. Sed dignissim lacinia nunc. 
