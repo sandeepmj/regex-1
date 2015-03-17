@@ -2,7 +2,7 @@ Due Friday, March 20 by 10 pm
 
 You may work in teams of two, but really try to figure it out.
 
-Find the regex required to find the phone numbers in the following string. After you figure it out here, find all the telephone numbers in [these Jeb Bush emails.] (https://github.com/sandeepmj/regex/blob/master/jeb-bush-telephone-numbers.txt)
+Find the regex required to find the phone numbers in the following string. After you figure it out at Regexr.com, find all the telephone numbers in [these Jeb Bush emails.] (https://github.com/sandeepmj/regex/blob/master/jeb-bush-telephone-numbers.txt)
 
 
 516 123 4567
