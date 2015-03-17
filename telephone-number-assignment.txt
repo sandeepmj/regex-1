@@ -3,6 +3,7 @@ You may work in teams of two, but really try to figure it out.
 
 Find the regex required to find the phone numbers in the following string.
 
+
 516 123 4567
 
 (850) 386-5323
