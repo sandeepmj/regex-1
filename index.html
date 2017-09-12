@@ -1,0 +1,251 @@
+<!DOCTYPE html>
+<html lang="en">
+
+	<head>
+		<meta charset="utf-8">
+		<!-- set the character set -->
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<!-- first step to a responsive site -->
+		<!-- Remember to update page title -->
+		<title>Sandeep's Regex Tip Sheet</title>
+
+		<link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
+
+		<!-- Your styles should be called here -->
+		<link rel="stylesheet" type="text/css" href="styles.css">
+		<link href="https://fonts.googleapis.com/css?family=Josefin+Slab|Lato" rel="stylesheet">
+
+
+		<!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+		<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+		<!--[if lt IE 9]>
+	  <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+	  <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+	<![endif]-->
+	</head>
+
+	<body>
+		<!-- YOUR CONTENT GOES HERE -->
+		<div id="main-container">
+
+
+			<h1>Sandeep's Regex Tip Sheet</h1>
+
+
+
+
+
+
+			<table class="tableizer-table">
+				<thead>
+					<tr class="tableizer-firstrow">
+						<th></th>
+						<th>Character</th>
+						<th>Regex</th>
+						<th>Matches</th>
+						<th>Excludes</th>
+					</tr>
+				</thead>
+				<tbody>
+					<tr>
+						<td>1</td>
+						<td>any letter, digit or underscore</td>
+						<td>\w</td>
+						<td><span class="match">Ab_CD123</span></td>
+						<td>!@# $%^&*();\ /| = +-.,</td>
+					</tr>
+					<tr>
+						<td>2</td>
+						<td>any digit</td>
+						<td>\d</td>
+						<td><span class="match">1234</span></td>
+						<td>AB_cd +-.,!@# $%^&*();\ /|</td>
+					</tr>
+					<tr>
+						<td>3</td>
+						<td>white space</td>
+						<td>\s</td>
+						<td>space between ABC 123</td>
+						<td>&nbsp;</td>
+					</tr>
+					<tr>
+						<td>4</td>
+						<td>any non-letter, including spaces and symbols</td>
+						<td>\W</td>
+						<td><span class="match">&^%@ 123 </span>AbC</td>
+						<td>&nbsp;</td>
+					</tr>
+					<tr>
+						<td>5</td>
+						<td>any non-digit, including spaces and symbols</td>
+						<td>\D</td>
+						<td><span class="match">&^%@</span> 123 <span class="match">AbC</span></td>
+						<td>&nbsp;</td>
+					</tr>
+					<tr>
+						<td>6</td>
+						<td>word boundary</td>
+						<td>\b</td>
+						<td>\d\b matches 3 in 12<span class="match">3</span></td>
+						<td>123456</td>
+					</tr>
+					<tr>
+						<td>7</td>
+						<td>word boundary</td>
+						<td>\b</td>
+						<td>\w\b matches c in ab<span class="match">c</span></td>
+						<td>abcde</td>
+					</tr>
+					<tr>
+						<td>8</td>
+						<td>start of string or line</td>
+						<td>^</td>
+						<td>^\w matches "T" at the start of a new line <span class="match">T</span>his is a cat.</td>
+						<td>&nbsp;</td>
+					</tr>
+					<tr>
+						<td>9</td>
+						<td>end of string or line</td>
+						<td>$</td>
+						<td>\w$ matches "t" in This is a ca<span class="match">t</span> at the end of a line </td>
+						<td>&nbsp;</td>
+					</tr>
+					<tr>
+						<td>10</td>
+						<td>one or more</td>
+						<td>+</td>
+						<td>\w+$ matches "cat" in This is a cat</td>
+						<td>&nbsp;</td>
+					</tr>
+					<tr>
+						<td>11</td>
+						<td>zero or 1 occurrence of preceeding character</td>
+						<td>?</td>
+						<td>123?456 matches <span class="match">123456</span> and <span class="match">12456</span></td>
+						<td>1233456</td>
+					</tr>
+					<tr>
+						<td>12</td>
+						<td>zero or more of any of the previous characters</td>
+						<td>*</td>
+						<td>12* matches <span class="match">12</span>53<span class="match">12</span>45<span class="match">1</span>34562</td>
+						<td>&nbsp;</td>
+					</tr>
+					<tr>
+						<td>13</td>
+						<td>exactly one occurence of preceeding character</td>
+						<td>{1}</td>
+						<td>ab{1}a matches <span class="match">aba</span></td>
+						<td>abba</td>
+					</tr>
+					<tr>
+						<td>14</td>
+						<td>exactly two occurences of previous character</td>
+						<td>{2}</td>
+						<td>ab{2}a matches <span class="match">abba</span></td>
+						<td>aba</td>
+					</tr>
+					<tr>
+						<td>15</td>
+						<td>between 1 and 3 occurrences</td>
+						<td>{1,3}</td>
+						<td>ab{1,3}a matches <span class="match">aba</span>, <span class="match">abba</span>, <span class="match">abbba</span></td>
+						<td>abbbba</td>
+					</tr>
+					<tr>
+						<td>16</td>
+						<td>between 2 or more</td>
+						<td>{2,}</td>
+						<td>ab{2,}a matches <span class="match">abba</span>, <span class="match">abbba</span>, <span class="match">abbbbba</span></td>
+						<td>aba</td>
+					</tr>
+					<tr>
+						<td>17</td>
+						<td>letter between f and k</td>
+						<td>[f-i]</td>
+						<td>rt<span class="match">f</span>e<span class="match">g</span>r<span class="match">h</span>a<span class="match">i</span>jk</td>
+						<td>&nbsp;</td>
+					</tr>
+					<tr>
+						<td>18</td>
+						<td>digit between 3 and 6</td>
+						<td>[3-6]</td>
+						<td>12<span class="match">3</span>8<span class="match">6</span>7<span class="match">5</span>8<span class="match">4</span>789</td>
+						<td>&nbsp;</td>
+					</tr>
+					<tr>
+						<td>19</td>
+						<td>match one and/or the other</td>
+						<td>[a|1]</td>
+						<td>*!ds<span class="match">a</span>r2d<span class="match">1</span></td>
+						<td>&nbsp;</td>
+					</tr>
+					<tr>
+						<td>20</td>
+						<td>match characters NOT inside brackets</td>
+						<td>[^f-i]</td>
+						<td><span class="match">abcde</span>fg<span class="match">cz</span>hi<span class="match">jklmn</span></td>
+						<td>&nbsp;</td>
+					</tr>
+					<tr>
+						<td>21</td>
+						<td>finds new line breaks</td>
+						<td>\n</td>
+						<td>&nbsp;</td>
+						<td>&nbsp;</td>
+					</tr>
+					<tr>
+						<td>22</td>
+						<td>finds tabs</td>
+						<td>\t</td>
+						<td>&nbsp;</td>
+						<td>&nbsp;</td>
+					</tr>
+					<tr>
+						<td>23</td>
+						<td>find carriage return</td>
+						<td>\r</td>
+						<td>&nbsp;</td>
+						<td>&nbsp;</td>
+					</tr>
+					<tr>
+						<td>24</td>
+						<td>escapes to find symbols used above</td>
+						<td>\</td>
+						<td>\\ matches \ in this<span class="match">\</span>that or \$ matches <span class="match">$</span>250</td>
+						<td>&nbsp;</td>
+					</tr>
+					<tr>
+						<td>25</td>
+						<td>Items in parenthesis is captured as a group to be reused elsewhere</td>
+						<td>(abc)</td>
+						<td>groups <span class="match">abc</span> in <span class="match">abc</span> 123 ladida</td>
+						<td>&nbsp;</td>
+					</tr>
+					<tr>
+						<td>26</td>
+						<td>return group result</td>
+						<td>\1 or $1</td>
+						<td>abc</td>
+						<td>&nbsp;</td>
+					</tr>
+					<tr>
+						<td>27</td>
+						<td>everything except new line, "greedy"</td>
+						<td>.</td>
+						<td>0123456789 +-.,!@#$%^&*();\ /|
+							<>"'</td>
+						<td>&nbsp;</td>
+					</tr>
+
+				</tbody>
+			</table>
+
+		</div>
+		<!-- Your javascript should be called here -->
+		<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+		<script src="main.js"></script>
+	</body>
+
+</html>

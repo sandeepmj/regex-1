@@ -1,0 +1,206 @@
+
+
+RowID Agency Name Salary Title Agency
+
+1  Martinez, Ramon, III  $227,691  Chief Of Staff;Rate of Pay;NDR;Pay Year;2015;Pay Basis;Annual  City Council
+2  Murphy, John  $217,725  Associate Inspector;Rate of Pay;NDR;Pay Year;2015;Pay Basis;Annual  Buildings, Department of
+3  Altman, Gary L  $216,141  Legislative Counsel;Rate of Pay;NDR;Pay Year;2015;Pay Basis;Annual  City Council
+4  Linn, Robert  $208,286  Commissioner Of Labor Relations;Rate of Pay;NDR;Pay Year;2015;Pay Basis;Annual  Labor Relation, Office of
+5  Fariello, Thomas J  $206,212  Administrative Architect;Rate of Pay;NDR;Pay Year;2015;Pay Basis;Annual  Buildings, Department of
+6  Campion, Renee E  $205,051  Deputy Commissioner Of Labor Relations;Rate of Pay;NDR;Pay Year;2015;Pay Basis;Annual  Labor Relation, Office of
+7  Gestely, Georgette  $202,294  Employee Health Benefits Program Director;Rate of Pay;NDR;Pay Year;2015;Pay Basis;Annual  Labor Relation, Office of
+8  Hogan, Timothy E  $193,708  Executive Inspector;Rate of Pay;NDR;Pay Year;2015;Pay Basis;Annual  Buildings, Department of
+9  Ahn, Kyung Sook  $190,479  Director Legal Division/Gen Counsel& Spec Counsel;Rate of Pay;NDR;Pay Year;2015;Pay Basis;Annual  City Council
+10  O Malley, Edward F  $189,909  Director Of Council Services Bureau;Rate of Pay;NDR;Pay Year;2015;Pay Basis;Annual  City Council
+11  De Leon Bhargav, Elizabeth  $186,523  Executive Legislative Coordinator;Rate of Pay;NDR;Pay Year;2015;Pay Basis;Annual  City Council
+12  Newman, Robert  $183,531  Executive Legislative Coordinator;Rate of Pay;NDR;Pay Year;2015;Pay Basis;Annual  City Council
+13  Chandler, Rick D  $180,738  Commissioner Of Buildings;Rate of Pay;NDR;Pay Year;2015;Pay Basis;Annual  Buildings, Department of
+14  Sehgal, Mona  $180,448  Executive Agency Counsel;Rate of Pay;NDR;Pay Year;2015;Pay Basis;Annual  Buildings, Department of
+15  Bell, Mayra E  $179,862  Counsel;Rate of Pay;NDR;Pay Year;2015;Pay Basis;Annual  Labor Relation, Office of
+16  Benjamin, Gail  $177,857  Director Of Land Use Division;Rate of Pay;NDR;Pay Year;2015;Pay Basis;Annual  City Council
+17  Gluckman, Ira M  $175,822  Administrative Architect;Rate of Pay;NDR;Pay Year;2015;Pay Basis;Annual  Buildings, Department of
+18  Lee, Derek T  $174,277  Administrative Architect;Rate of Pay;NDR;Pay Year;2015;Pay Basis;Annual  Buildings, Department of
+19  Gordon, Kanda L  $173,560  Assistant Commissioner Of Operations;Rate of Pay;NDR;Pay Year;2015;Pay Basis;Annual  Buildings, Department of
+20  Betro, Gina  $173,005  Assistant Commissioner For Labor Relations & Admin;Rate of Pay;NDR;Pay Year;2015;Pay Basis;Annual  Buildings, Department of
+21  Popa, Laura  $172,650  Deputy Chief Of Staff;Rate of Pay;NDR;Pay Year;2015;Pay Basis;Annual  City Council
+22  Ade-Salu, Rafee A  $171,469  Civil Engineer;Rate of Pay;NDR;Pay Year;2015;Pay Basis;Annual  Buildings, Department of
+23  Mckinney, Latonia R  $170,999  Director Of Finance;Rate of Pay;NDR;Pay Year;2015;Pay Basis;Annual  City Council
+24  May, Linda E  $169,887  Administrative Staff Analyst;Rate of Pay;NDR;Pay Year;2015;Pay Basis;Annual  Trials and Hearings, Admin for
+25  Kuo, Peggy  $169,604  Executive Agency Counsel;Rate of Pay;NDR;Pay Year;2015;Pay Basis;Annual  Trials and Hearings, Admin for
+26  Rebholz, Martin F  $169,363  Administrative Architect;Rate of Pay;NDR;Pay Year;2015;Pay Basis;Annual  Buildings, Department of
+27  Hughes, Joseph  $169,271  Computer Systems Manager;Rate of Pay;NDR;Pay Year;2015;Pay Basis;Annual  Trials and Hearings, Admin for
+28  Lynch, Timothy D  $168,069  Administrative Engineer;Rate of Pay;NDR;Pay Year;2015;Pay Basis;Annual  Buildings, Department of
+29  Lall, Christopher  $167,239  Director;Rate of Pay;NDR;Pay Year;2015;Pay Basis;Annual  City Council
+30  Berner, Christopher  $167,023  Administrative Staff Analyst;Rate of Pay;NDR;Pay Year;2015;Pay Basis;Annual  Labor Relation, Office of
+31  Cirillo, Mario A  $166,508  Associate Inspector;Rate of Pay;NDR;Pay Year;2015;Pay Basis;Annual  Buildings, Department of
+32  Connors, Thomas  $166,114  Administrative Inspector;Rate of Pay;NDR;Pay Year;2015;Pay Basis;Annual  Buildings, Department of
+33  Kaminer, Marshall A  $165,164  Administrative Engineer;Rate of Pay;NDR;Pay Year;2015;Pay Basis;Annual  Buildings, Department of
+34  Skowronek, Elzbieta  $164,193  Administrative Architect;Rate of Pay;NDR;Pay Year;2015;Pay Basis;Annual  Buildings, Department of
+35  Bailey, Kenneth D  $163,893  Assistant Mechanical Engineer;Rate of Pay;NDR;Pay Year;2015;Pay Basis;Annual  Buildings, Department of
+36  Bishop, Bradford P  $163,411  Computer Systems Manager;Rate of Pay;NDR;Pay Year;2015;Pay Basis;Annual  Buildings, Department of
+37  Slifka, Amy M  $162,960  Executive Agency Counsel;Rate of Pay;NDR;Pay Year;2015;Pay Basis;Annual  Trials and Hearings, Admin for
+38  Sirakis, Constadino  $162,924  Administrative Engineer;Rate of Pay;NDR;Pay Year;2015;Pay Basis;Annual  Buildings, Department of
+39  Mccaughey, Anne F  $161,375  Legislative Counsel;Rate of Pay;NDR;Pay Year;2015;Pay Basis;Annual  City Council
+40  Stewart, Lindsey  $160,493  Associate Inspector;Rate of Pay;NDR;Pay Year;2015;Pay Basis;Annual  Buildings, Department of
+41  Fuchs, Regina  $158,688  Assistant Commissioner Of Labor Relations;Rate of Pay;NDR;Pay Year;2015;Pay Basis;Annual  Labor Relation, Office of
+42  Mann, Rajinder D  $158,452  Director Of Land Use Division;Rate of Pay;NDR;Pay Year;2015;Pay Basis;Annual  City Council
+43  D'Alba, Carl, Jr.  $158,425  Assistant Director Of Administration;Rate of Pay;NDR;Pay Year;2015;Pay Basis;Annual  City Council
+44  Rodus, Jeffrey S  $158,359  Executive Legislative Coordinator;Rate of Pay;NDR;Pay Year;2015;Pay Basis;Annual  City Council
+45  Defoe, Werner  $156,601  Administrative Architect;Rate of Pay;NDR;Pay Year;2015;Pay Basis;Annual  Buildings, Department of
+46  Dits, Dmitri  $156,039  Administrative Inspector;Rate of Pay;NDR;Pay Year;2015;Pay Basis;Annual  Buildings, Department of
+47  Davis, Charles W  $154,960  Executive Legislative Coordinator;Rate of Pay;NDR;Pay Year;2015;Pay Basis;Annual  City Council
+48  Mills, David D  $154,483  Associate Inspector;Rate of Pay;NDR;Pay Year;2015;Pay Basis;Annual  Buildings, Department of
+49  Majewski, Raymond  $154,093  Deputy Director- Finance;Rate of Pay;NDR;Pay Year;2015;Pay Basis;Annual  City Council
+50  Yates, Richard  $152,830  Deputy Commissioner Of Labor Relations;Rate of Pay;NDR;Pay Year;2015;Pay Basis;Annual  Labor Relation, Office of
+51  Pressley, Joey B  $152,660  Deputy Chief Of Staff;Rate of Pay;NDR;Pay Year;2015;Pay Basis;Annual  City Council
+52  Gitelson, Helen M  $152,598  Administrative Staff Analyst;Rate of Pay;NDR;Pay Year;2015;Pay Basis;Annual  Buildings, Department of
+53  Shaikh, Firoz K  $152,287  Computer Systems Manager;Rate of Pay;NDR;Pay Year;2015;Pay Basis;Annual  Trials and Hearings, Admin for
+54  Sanabria, Mark A  $151,297  Administrative Manager;Rate of Pay;NDR;Pay Year;2015;Pay Basis;Annual  Buildings, Department of
+55  Kim, Sung Mo  $150,589  Deputy Director-Legal Division;Rate of Pay;NDR;Pay Year;2015;Pay Basis;Annual  City Council
+56  Gewolb, Matthew T  $150,589  Director;Rate of Pay;NDR;Pay Year;2015;Pay Basis;Annual  City Council
+57  Koch, Eric D  $150,589  Director-Office Of Communications;Rate of Pay;NDR;Pay Year;2015;Pay Basis;Annual  City Council
+58  Borushek, Mikhail  $149,883  Computer Systems Manager;Rate of Pay;NDR;Pay Year;2015;Pay Basis;Annual  Labor Relation, Office of
+59  Miller, Felicia R  $149,393  Executive Agency Counsel;Rate of Pay;NDR;Pay Year;2015;Pay Basis;Annual  Buildings, Department of
+60  D'Alessio, Robert  $149,354  Administrative Inspector;Rate of Pay;NDR;Pay Year;2015;Pay Basis;Annual  Buildings, Department of
+61  Neisser, Alison J  $147,058  Executive Agency Counsel;Rate of Pay;NDR;Pay Year;2015;Pay Basis;Annual  Buildings, Department of
+62  Cropper, Lloyd T  $146,896  Associate Inspector;Rate of Pay;NDR;Pay Year;2015;Pay Basis;Annual  Buildings, Department of
+63  Toth, Nathaniel C  $146,647  Deputy Director- Finance;Rate of Pay;NDR;Pay Year;2015;Pay Basis;Annual  City Council
+64  Monaco, Philip  $146,259  Secretary To Department;Rate of Pay;NDR;Pay Year;2015;Pay Basis;Annual  Buildings, Department of
+65  Friedman, Deborah L  $146,066  Assistant Commissioner Of Labor Relations;Rate of Pay;NDR;Pay Year;2015;Pay Basis;Annual  Labor Relation, Office of
+66  Wen, Keith L  $145,902  Administrative Borough Superintendent;Rate of Pay;NDR;Pay Year;2015;Pay Basis;Annual  Buildings, Department of
+67  Poreda Ryan, Regina  $145,597  Deputy Director- Finance;Rate of Pay;NDR;Pay Year;2015;Pay Basis;Annual  City Council
+68  Moran, Carol L  $145,426  Executive Agency Counsel;Rate of Pay;NDR;Pay Year;2015;Pay Basis;Annual  Trials and Hearings, Admin for
+69  Ward, Thomas E  $145,369  Associate Inspector;Rate of Pay;NDR;Pay Year;2015;Pay Basis;Annual  Buildings, Department of
+70  Kramer, Raymond E  $145,156  Administrative Law Judge;Rate of Pay;NDR;Pay Year;2015;Pay Basis;Annual  Trials and Hearings, Admin for
+71  Shamash, Yegal  $144,460  Administrative Engineer;Rate of Pay;NDR;Pay Year;2015;Pay Basis;Annual  Buildings, Department of
+72  Allen, Donovan J  $144,319  Administrative Engineer;Rate of Pay;NDR;Pay Year;2015;Pay Basis;Annual  Buildings, Department of
+73  Eschenasy, Dan  $143,944  Administrative Engineer;Rate of Pay;NDR;Pay Year;2015;Pay Basis;Annual  Buildings, Department of
+74  Spooner, John B  $143,038  Administrative Law Judge;Rate of Pay;NDR;Pay Year;2015;Pay Basis;Annual  Trials and Hearings, Admin for
+75  Francis, Camille A  $142,931  Deputy Director;Rate of Pay;NDR;Pay Year;2015;Pay Basis;Annual  City Council
+76  Omran, Ashraf O  $142,690  Administrative Engineer;Rate of Pay;NDR;Pay Year;2015;Pay Basis;Annual  Buildings, Department of
+77  Weltman, Dean S  $141,466  Executive Agency Counsel;Rate of Pay;NDR;Pay Year;2015;Pay Basis;Annual  Labor Relation, Office of
+78  Banks, Steven H  $141,101  Assistant Commissioner Of Labor Relations;Rate of Pay;NDR;Pay Year;2015;Pay Basis;Annual  Labor Relation, Office of
+79  Agostino, Salvatore V  $140,818  Administrative Inspector;Rate of Pay;NDR;Pay Year;2015;Pay Basis;Annual  Buildings, Department of
+80  Lake, Tamara M  $140,673  Assistant Commissioner Of Labor Relations;Rate of Pay;NDR;Pay Year;2015;Pay Basis;Annual  Labor Relation, Office of
+81  Vyas, Hiren M  $140,559  Administrative Inspector;Rate of Pay;NDR;Pay Year;2015;Pay Basis;Annual  Buildings, Department of
+82  Camihort, Eduardo M  $139,879  Computer Systems Manager;Rate of Pay;NDR;Pay Year;2015;Pay Basis;Annual  Trials and Hearings, Admin for
+83  Sheehan, James M  $139,879  Computer Systems Manager;Rate of Pay;NDR;Pay Year;2015;Pay Basis;Annual  Trials and Hearings, Admin for
+84  Mclaughlin, Christine M  $139,534  Director;Rate of Pay;NDR;Pay Year;2015;Pay Basis;Annual  City Council
+85  Zurica, Thomas J  $139,009  Associate Inspector;Rate of Pay;NDR;Pay Year;2015;Pay Basis;Annual  Buildings, Department of
+86  Babette, Michael J  $138,554  Administrative Staff Analyst;Rate of Pay;NDR;Pay Year;2015;Pay Basis;Annual  Labor Relation, Office of
+87  Bocra, Gina L  $137,810  Administrative Architect;Rate of Pay;NDR;Pay Year;2015;Pay Basis;Annual  Buildings, Department of
+88  Randazzo, Dennis  $137,803  Associate Inspector;Rate of Pay;NDR;Pay Year;2015;Pay Basis;Annual  Buildings, Department of
+89  Pavan, Scott D  $137,630  Administrative Architect;Rate of Pay;NDR;Pay Year;2015;Pay Basis;Annual  Buildings, Department of
+90  Balsam, Helaine B  $137,357  Executive Agency Counsel;Rate of Pay;NDR;Pay Year;2015;Pay Basis;Annual  Trials and Hearings, Admin for
+91  Ramsarran, Deodat  $137,119  Administrative Engineer;Rate of Pay;NDR;Pay Year;2015;Pay Basis;Annual  Buildings, Department of
+92  Arias, Juan C  $136,583  Associate Inspector;Rate of Pay;NDR;Pay Year;2015;Pay Basis;Annual  Buildings, Department of
+93  Marchiano, Frank  $136,398  Administrative Project Manager;Rate of Pay;NDR;Pay Year;2015;Pay Basis;Annual  Buildings, Department of
+94  Levitt, Claire A  $136,337  Deputy Commissioner Of Labor Relations;Rate of Pay;NDR;Pay Year;2015;Pay Basis;Annual  Labor Relation, Office of
+95  Carbone, Anthony  $136,202  Associate Inspector;Rate of Pay;NDR;Pay Year;2015;Pay Basis;Annual  Buildings, Department of
+96  Pemberton, Edwin L  $136,148  Administrative Staff Analyst;Rate of Pay;NDR;Pay Year;2015;Pay Basis;Annual  Buildings, Department of
+97  Patur, Ravinder R  $135,928  Administrative Manager;Rate of Pay;NDR;Pay Year;2015;Pay Basis;Annual  Buildings, Department of
+98  Khan, Mohemmed B  $135,516  Administrative Engineer;Rate of Pay;NDR;Pay Year;2015;Pay Basis;Annual  Buildings, Department of
+99  Miller, Leonid  $135,052  Administrative Engineer;Rate of Pay;NDR;Pay Year;2015;Pay Basis;Annual  Buildings, Department of
+100  Rosen, Richard  $135,050  Administrative Staff Analyst;Rate of Pay;NDR;Pay Year;2015;Pay Basis;Annual  Buildings, Department of
+101  Vilenchik, Kazimir  $134,994  Administrative Engineer;Rate of Pay;NDR;Pay Year;2015;Pay Basis;Annual  Buildings, Department of
+102  Alam, Md F  $134,802  Civil Engineer;Rate of Pay;NDR;Pay Year;2015;Pay Basis;Annual  Buildings, Department of
+103  Lewis, Faye  $134,609  Administrative Law Judge;Rate of Pay;NDR;Pay Year;2015;Pay Basis;Annual  Trials and Hearings, Admin for
+104  Levy, Victor M  $134,536  Associate Counsel;Rate of Pay;NDR;Pay Year;2015;Pay Basis;Annual  Labor Relation, Office of
+105  Edwards, Tanisha S  $134,475  Legislative Counsel;Rate of Pay;NDR;Pay Year;2015;Pay Basis;Annual  City Council
+106  Chaudhri, Naweed A  $134,132  Civil Engineer;Rate of Pay;NDR;Pay Year;2015;Pay Basis;Annual  Buildings, Department of
+107  Zaman, Nuruz  $134,114  Mechanical Engineer;Rate of Pay;NDR;Pay Year;2015;Pay Basis;Annual  Buildings, Department of
+108  Laufer, Gail L  $133,801  Administrative Staff Analyst;Rate of Pay;NDR;Pay Year;2015;Pay Basis;Annual  Labor Relation, Office of
+109  Koval, Aleksandr  $133,740  Civil Engineer;Rate of Pay;NDR;Pay Year;2015;Pay Basis;Annual  Buildings, Department of
+110  Pietroluongo, Louis  $133,694  Associate Inspector;Rate of Pay;NDR;Pay Year;2015;Pay Basis;Annual  Buildings, Department of
+111  Nasser, Terzah  $133,522  Deputy Director;Rate of Pay;NDR;Pay Year;2015;Pay Basis;Annual  City Council
+112  Gleason, Keavy A  $133,157  Assistant Director Of Administration;Rate of Pay;NDR;Pay Year;2015;Pay Basis;Annual  City Council
+113  Friedman, Matti  $133,067  Computer Specialist;Rate of Pay;NDR;Pay Year;2015;Pay Basis;Annual  Buildings, Department of
+114  Essrog, Natana  $132,670  Computer Specialist;Rate of Pay;NDR;Pay Year;2015;Pay Basis;Annual  Buildings, Department of
+115  Toro, Margaret  $132,643  Assistant Director Of Administration;Rate of Pay;NDR;Pay Year;2015;Pay Basis;Annual  City Council
+116  Plumey, Raymond  $131,784  Administrative Architect;Rate of Pay;NDR;Pay Year;2015;Pay Basis;Annual  Buildings, Department of
+117  Singh, Charanjeet  $131,700  Administrative Engineer;Rate of Pay;NDR;Pay Year;2015;Pay Basis;Annual  Buildings, Department of
+118  Wiggins, Jerry A  $131,693  Associate Inspector;Rate of Pay;NDR;Pay Year;2015;Pay Basis;Annual  Buildings, Department of
+119  Florsheim, Joshua R  $131,565  Administrative Manager;Rate of Pay;NDR;Pay Year;2015;Pay Basis;Annual  Buildings, Department of
+120  Alacha, Michael  $131,473  Administrative Engineer;Rate of Pay;NDR;Pay Year;2015;Pay Basis;Annual  Buildings, Department of
+121  Atalla, Nashat Y  $131,278  Mechanical Engineer;Rate of Pay;NDR;Pay Year;2015;Pay Basis;Annual  Buildings, Department of
+122  Marchiano, Maria  $131,155  Executive Agency Counsel;Rate of Pay;NDR;Pay Year;2015;Pay Basis;Annual  Trials and Hearings, Admin for
+123  Cantave, Yvon  $130,938  Associate Inspector;Rate of Pay;NDR;Pay Year;2015;Pay Basis;Annual  Buildings, Department of
+124  Glikin, Deborah  $130,682  Agency Attorney;Rate of Pay;NDR;Pay Year;2015;Pay Basis;Annual  Buildings, Department of
+125  Beato, Carlos E  $130,644  Legislative Counsel;Rate of Pay;NDR;Pay Year;2015;Pay Basis;Annual  City Council
+126  Abeysinghe, Nirmala  $130,404  Assistant Architect;Rate of Pay;NDR;Pay Year;2015;Pay Basis;Annual  Buildings, Department of
+127  Savoia, Holly N  $129,371  Administrative Engineer;Rate of Pay;NDR;Pay Year;2015;Pay Basis;Annual  Buildings, Department of
+128  Kendall, William  $129,226  Administrative Manager;Rate of Pay;NDR;Pay Year;2015;Pay Basis;Annual  Buildings, Department of
+129  Pinnock, Ferron W  $129,146  Administrative Inspector;Rate of Pay;NDR;Pay Year;2015;Pay Basis;Annual  Buildings, Department of
+130  Zorgniotti, Alessandra F  $128,520  Administrative Law Judge;Rate of Pay;NDR;Pay Year;2015;Pay Basis;Annual  Trials and Hearings, Admin for
+131  Lai, William  $127,700  Mechanical Engineer;Rate of Pay;NDR;Pay Year;2015;Pay Basis;Annual  Buildings, Department of
+132  Bulger, Kevin  $127,574  Director Employee Assistance Program;Rate of Pay;NDR;Pay Year;2015;Pay Basis;Annual  Labor Relation, Office of
+133  Cordes, Arthur  $127,073  Administrative Inspector;Rate of Pay;NDR;Pay Year;2015;Pay Basis;Annual  Buildings, Department of
+134  Geller, Brian H  $126,999  Assistant Commissioner Of Labor Relations;Rate of Pay;NDR;Pay Year;2015;Pay Basis;Annual  Labor Relation, Office of
+135  Gittens, Don L  $126,988  Associate Inspector;Rate of Pay;NDR;Pay Year;2015;Pay Basis;Annual  Buildings, Department of
+136  Mattera, Philip J  $126,958  Associate Inspector;Rate of Pay;NDR;Pay Year;2015;Pay Basis;Annual  Buildings, Department of
+137  Ettricks, Jonathan  $126,941  Director;Rate of Pay;NDR;Pay Year;2015;Pay Basis;Annual  City Council
+138  Casey, Kevin F  $126,796  Administrative Law Judge;Rate of Pay;NDR;Pay Year;2015;Pay Basis;Annual  Trials and Hearings, Admin for
+139  Akinsola, Abayomi O  $126,496  Plan Examiner;Rate of Pay;NDR;Pay Year;2015;Pay Basis;Annual  Buildings, Department of
+140  Ackroyd, Joseph J  $126,363  Administrative Engineer;Rate of Pay;NDR;Pay Year;2015;Pay Basis;Annual  Buildings, Department of
+141  Livingston, Karen A  $126,285  Administrative Staff Analyst;Rate of Pay;NDR;Pay Year;2015;Pay Basis;Annual  Trials and Hearings, Admin for
+142  Vee, Harry  $126,227  Executive Agency Counsel;Rate of Pay;NDR;Pay Year;2015;Pay Basis;Annual  Trials and Hearings, Admin for
+143  Rahimi, Mehrdad  $125,980  Plan Examiner;Rate of Pay;NDR;Pay Year;2015;Pay Basis;Annual  Buildings, Department of
+144  Tumminelli, Peter V  $125,756  Administrative Staff Analyst;Rate of Pay;NDR;Pay Year;2015;Pay Basis;Annual  Trials and Hearings, Admin for
+145  Palmieri, Debra  $125,750  Administrative Manager;Rate of Pay;NDR;Pay Year;2015;Pay Basis;Annual  Buildings, Department of
+146  Gonzalez, Erica  $125,658  Executive Legislative Coordinator;Rate of Pay;NDR;Pay Year;2015;Pay Basis;Annual  City Council
+147  Leon, Cheryl  $125,622  Adm Manager-Non-Mgrl;Rate of Pay;NDR;Pay Year;2015;Pay Basis;Annual  Buildings, Department of
+148  Kerry, Natasha  $125,281  Legislative Counsel;Rate of Pay;NDR;Pay Year;2015;Pay Basis;Annual  City Council
+149  Alexander, Lanny R  $125,191  Director Nyc Loft Board;Rate of Pay;NDR;Pay Year;2015;Pay Basis;Annual  Buildings, Department of
+150  Miller, Kara J  $124,826  Administrative Law Judge;Rate of Pay;NDR;Pay Year;2015;Pay Basis;Annual  Trials and Hearings, Admin for
+151  Baril, Marguerite  $124,488  Architect;Rate of Pay;NDR;Pay Year;2015;Pay Basis;Annual  Buildings, Department of
+152  Baker, Jeffrey T  $124,424  Deputy Director;Rate of Pay;NDR;Pay Year;2015;Pay Basis;Annual  City Council
+153  Ransom, Mark D  $124,221  Associate Inspector;Rate of Pay;NDR;Pay Year;2015;Pay Basis;Annual  Buildings, Department of
+154  Halkiadakis, Basile G  $124,052  Administrative Engineer;Rate of Pay;NDR;Pay Year;2015;Pay Basis;Annual  Buildings, Department of
+155  Cronin, James P  $123,891  Computer Systems Manager;Rate of Pay;NDR;Pay Year;2015;Pay Basis;Annual  Buildings, Department of
+156  Balk, Benjamin  $123,725  Plan Examiner;Rate of Pay;NDR;Pay Year;2015;Pay Basis;Annual  Buildings, Department of
+157  Fisher, Alexandra  $123,707  Executive Agency Counsel;Rate of Pay;NDR;Pay Year;2015;Pay Basis;Annual  Buildings, Department of
+158  Smith, Russell  $123,628  Associate Inspector;Rate of Pay;NDR;Pay Year;2015;Pay Basis;Annual  Buildings, Department of
+159  Mosher, Fred S, Jr  $123,460  Administrative Architect;Rate of Pay;NDR;Pay Year;2015;Pay Basis;Annual  Buildings, Department of
+160  Miller, Wayne T  $123,420  Legislative Administrative Manager;Rate of Pay;NDR;Pay Year;2015;Pay Basis;Annual  City Council
+161  Cordero, Rachel  $123,418  Deputy Director;Rate of Pay;NDR;Pay Year;2015;Pay Basis;Annual  City Council
+162  Hong, Sang B  $123,140  Administrative Manager;Rate of Pay;NDR;Pay Year;2015;Pay Basis;Annual  Labor Relation, Office of
+163  Richard, Tynia D  $123,073  Administrative Law Judge;Rate of Pay;NDR;Pay Year;2015;Pay Basis;Annual  Trials and Hearings, Admin for
+164  Kushner, Elisabeth  $122,913  Administrative Staff Analyst;Rate of Pay;NDR;Pay Year;2015;Pay Basis;Annual  Labor Relation, Office of
+165  Maa, Hong-Chin  $122,892  Mechanical Engineer;Rate of Pay;NDR;Pay Year;2015;Pay Basis;Annual  Buildings, Department of
+166  Morgan, Robert D  $122,863  Computer Systems Manager;Rate of Pay;NDR;Pay Year;2015;Pay Basis;Annual  Buildings, Department of
+167  Hylton, Renaldo F  $122,539  Administrative Manager;Rate of Pay;NDR;Pay Year;2015;Pay Basis;Annual  Buildings, Department of
+168  Olsen, Gregrory J  $122,524  Legislative Systems Manager;Rate of Pay;NDR;Pay Year;2015;Pay Basis;Annual  City Council
+169  Wat, Sai  $122,518  Administrative Engineer;Rate of Pay;NDR;Pay Year;2015;Pay Basis;Annual  Buildings, Department of
+170  Gouda, Mahmoud A  $122,496  Mechanical Engineer;Rate of Pay;NDR;Pay Year;2015;Pay Basis;Annual  Buildings, Department of
+171  Carr, Alonzo  $122,379  Legislative Project Manager;Rate of Pay;NDR;Pay Year;2015;Pay Basis;Annual  City Council
+172  Calandra, Robert C  $122,216  Assistant Director Of Legal Services;Rate of Pay;NDR;Pay Year;2015;Pay Basis;Annual  City Council
+173  Addison, Ingrid M  $122,053  Administrative Law Judge;Rate of Pay;NDR;Pay Year;2015;Pay Basis;Annual  Trials and Hearings, Admin for
+174  Cuggy, Olivia M  $121,460  Executive Agency Counsel;Rate of Pay;NDR;Pay Year;2015;Pay Basis;Annual  Trials and Hearings, Admin for
+175  Ross, Bernard  $120,775  Administrative Inspector;Rate of Pay;NDR;Pay Year;2015;Pay Basis;Annual  Buildings, Department of
+176  Tennenhauser, Elidia  $120,691  Administrative Staff Analyst;Rate of Pay;NDR;Pay Year;2015;Pay Basis;Annual  Buildings, Department of
+177  Scimone, Paul A  $120,671  Deputy Director- Finance;Rate of Pay;NDR;Pay Year;2015;Pay Basis;Annual  City Council
+178  Rodriguez, Antonio M  $120,641  Legislative Assistant;Rate of Pay;NDR;Pay Year;2015;Pay Basis;Annual  City Council
+179  Steigman, Martin  $120,282  Associate Inspector;Rate of Pay;NDR;Pay Year;2015;Pay Basis;Annual  Buildings, Department of
+180  Pugach, Vladimir  $120,275  Associate Inspector;Rate of Pay;NDR;Pay Year;2015;Pay Basis;Annual  Buildings, Department of
+181  Presley, David M  $120,148  Computer Systems Manager;Rate of Pay;NDR;Pay Year;2015;Pay Basis;Annual  Buildings, Department of
+182  Neill, Sharon N  $120,130  Deputy Commissioner;Rate of Pay;NDR;Pay Year;2015;Pay Basis;Annual  Buildings, Department of
+183  Chung, Ricky  $120,079  Associate Inspector;Rate of Pay;NDR;Pay Year;2015;Pay Basis;Annual  Buildings, Department of
+184  Bruno, Joseph V  $119,954  Administrative Architect;Rate of Pay;NDR;Pay Year;2015;Pay Basis;Annual  Buildings, Department of
+185  Lewis, Lisa  $119,725  Administrative Manager;Rate of Pay;NDR;Pay Year;2015;Pay Basis;Annual  Buildings, Department of
+186  Abbassi, Mathher  $119,675  Administrative Engineer;Rate of Pay;NDR;Pay Year;2015;Pay Basis;Annual  Buildings, Department of
+187  Fortier, Edward J  $119,462  Executive Agency Counsel;Rate of Pay;NDR;Pay Year;2015;Pay Basis;Annual  Buildings, Department of
+188  Stein, Barry  $119,203  Architect;Rate of Pay;NDR;Pay Year;2015;Pay Basis;Annual  Buildings, Department of
+189  Muhammed, Faisal  $118,918  Administrative Engineer;Rate of Pay;NDR;Pay Year;2015;Pay Basis;Annual  Buildings, Department of
+190  Corral, James H  $118,703  Administrative Engineer;Rate of Pay;NDR;Pay Year;2015;Pay Basis;Annual  Buildings, Department of
+191  D'Sa, Desmond A  $118,703  Administrative Staff Analyst;Rate of Pay;NDR;Pay Year;2015;Pay Basis;Annual  Labor Relation, Office of
+192  Lau, Kwan W  $118,451  Computer Specialist;Rate of Pay;NDR;Pay Year;2015;Pay Basis;Annual  Buildings, Department of
+193  Skakun, Jacob  $118,370  Computer Specialist;Rate of Pay;NDR;Pay Year;2015;Pay Basis;Annual  Trials and Hearings, Admin for
+194  Fray, Warren E  $118,354  Architect;Rate of Pay;NDR;Pay Year;2015;Pay Basis;Annual  Buildings, Department of
+195  Polk, Lisa  $118,222  Administrative Staff Analyst;Rate of Pay;NDR;Pay Year;2015;Pay Basis;Annual  Labor Relation, Office of
+196  Freedman-Schnap, Michael  $118,185  Director-Office Of Policy;Rate of Pay;NDR;Pay Year;2015;Pay Basis;Annual  City Council
+197  Daly, Robert J  $118,145  Administrative Inspector;Rate of Pay;NDR;Pay Year;2015;Pay Basis;Annual  Buildings, Department of
+198  Mcgowan, Denis P  $117,727  Administrative Inspector;Rate of Pay;NDR;Pay Year;2015;Pay Basis;Annual  Buildings, Department of
+199  Del Valle, Fidel F  $117,702  Chief Administrative Law Judge;Rate of Pay;NDR;Pay Year;2015;Pay Basis;Annual  Trials and Hearings, Admin for
+
+
+source: http://seethroughny.net/payrolls/11426764

@@ -1,0 +1,7 @@
+Animal Quantity Food
+cats	5	tuna
+dogs	4	duck
+birds	9	seeds
+bats	6	moths
+rats	42	grain
+zebras	4	hay

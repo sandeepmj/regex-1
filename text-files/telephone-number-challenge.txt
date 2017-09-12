@@ -1,0 +1,30 @@
+You may work in teams of two, but really try to figure it out.
+
+Formulate the Regex required to find the phone numbers in the following string. After you figure it out here, find all the telephone numbers in this file:
+
+jeb-bush-telephone-numbers.txt
+
+Working alone or in twos, formulate the Regex required to capture the phone numbers in : telephone-number-challenge.txt. 
+
+After you figure out the Regex, find all the telephone numbers in this file:
+Jeb-bush-telephone-numbers-challenge.txt
+
+You have 20 minutes to figure out the Regex. The moment you are confident you have the correct answer, fill out this form: http://goo.gl/forms/DVYDltyidY
+
+Class aptent taciti sociosqu 516 123 4567
+
+(850) 386-5323
+
+954.355.4874
+
+4153698666
+
+407-316-4718
+
+40.61786,-74.17757 (Geocode, not a telephone number. Don't capture)
+
+Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Nam nec ante. Sed lacinia, urna non tincidunt mattis, tortor neque adipiscing diam, a cursus ipsum ante quis turpis. Nulla facilisi. Ut fringilla. Suspendisse potenti. Nunc feugiat mi a tellus consequat imperdiet. Vestibulum sapien. Proin quam. Etiam ultrices. Suspendisse in justo eu magna luctus suscipit. 
+
+
+
+Sed lectus. Integer euismod lacus luctus magna. Quisque cursus, metus vitae pharetra auctor, sem massa mattis sem, at sjnews@gmail.com interdum magna augue eget diam. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Morbi lacinia molestie dui. Praesent blandit dolor. Sed non quam. In vel mi sit amet augue congue elementum. Morbi in ipsum sit amet pede facilisis laoreet. Donec lacus nunc, viverra nec, blandit vel, egestas et, augue. Vestibulum tincidunt malesuada tellus. Ut ultrices ultrices enim. Curabitur sit amet mauris. Morbi in dui quis est pulvinar ullamcorper. Nulla facilisi.
